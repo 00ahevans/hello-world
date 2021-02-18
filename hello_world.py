@@ -4,7 +4,7 @@ Team members: Aida M, Adelaide E, Jiankun W
 """
 
 def main():
-    print("Hello, world!")
+    print("Hello, Adelaide!")
 
 if __name__ == "__main__":
     main()
